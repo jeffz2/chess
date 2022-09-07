@@ -1,0 +1,29 @@
+commit bdb85c9d44d229f52bf0bd008b35a1c11a5d1a57
+Author: Rachel <szhan146@jh.edu>
+Date:   Sat Nov 27 00:51:56 2021 -0500
+
+    added each piece's cpp file
+
+commit fdd54fe37470f47f40bc1d2826f890d4e90cf154
+Author: Rachel <szhan146@jh.edu>
+Date:   Fri Nov 26 00:05:28 2021 -0500
+
+    edit some format in starter code
+
+commit 8c9d89c65a53b426695d1dcfa7ed1fd8f29e4927
+Author: Rachel <szhan146@jh.edu>
+Date:   Thu Nov 25 21:35:16 2021 -0500
+
+    add team members to each source file
+
+commit 51f399eae837c11f3cc259b7ff6c93d320426e52
+Author: Rachel <szhan146@jh.edu>
+Date:   Thu Nov 25 21:25:49 2021 -0500
+
+    create the README with framework
+
+commit 16e0ba18fc1fc1f32ae0ecf7a4796c5b6f8410c9
+Author: Rachel <szhan146@jh.edu>
+Date:   Thu Nov 25 20:57:58 2021 -0500
+
+    Initialized with the starter codes
